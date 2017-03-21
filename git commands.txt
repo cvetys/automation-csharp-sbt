@@ -1,1 +1,8 @@
+
 git clone --progress --recursive -v "https://github.com/cvetys/automation-csharp-sbt.git"
+
+git.exe push -v --progress "origin" master:master
+
+git.exe checkout -b branch_1 remotes/origin/branch_1 --
+
+git.exe pull -v --progress "origin"
