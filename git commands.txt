@@ -1,1 +1,4 @@
 git clone --progress --recursive -v "https://github.com/cvetys/automation-csharp-sbt.git"
+
+//swutch to branch_2
+git.exe checkout -b branch_2 remotes/origin/branch_2 --
