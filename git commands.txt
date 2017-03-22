@@ -1,1 +1,0 @@
-git clone --progress --recursive -v "https://github.com/cvetys/automation-csharp-sbt.git"

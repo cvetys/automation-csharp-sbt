@@ -1,0 +1,6 @@
+C:\cvety_automation\automation-csharp-sbt\Homework1App\Homework1App\bin\Debug\Homework1App.exe.config
+C:\cvety_automation\automation-csharp-sbt\Homework1App\Homework1App\bin\Debug\Homework1App.exe
+C:\cvety_automation\automation-csharp-sbt\Homework1App\Homework1App\bin\Debug\Homework1App.pdb
+C:\cvety_automation\automation-csharp-sbt\Homework1App\Homework1App\obj\Debug\Homework1App.csprojResolveAssemblyReference.cache
+C:\cvety_automation\automation-csharp-sbt\Homework1App\Homework1App\obj\Debug\Homework1App.exe
+C:\cvety_automation\automation-csharp-sbt\Homework1App\Homework1App\obj\Debug\Homework1App.pdb
